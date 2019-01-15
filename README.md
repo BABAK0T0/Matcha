@@ -94,5 +94,7 @@ You can now sign-in, you have to fill some field yet and then you can match, tal
 [Faker](https://unsplash.com/developers)
 [Geocoding](https://developers.google.com/maps/solutions/store-locator/clothing-store-locator#finding-locations-with-mysql)
 
+### Author
+
 Written by [bsiguret](https://github.com/bsiguret) and myself.
 
