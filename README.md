@@ -65,8 +65,6 @@ node seedgen.js GIVE_A_NUMBER_BETWEEN_500_AND_1000
 Create an account, and check your email on [mailtrap](https://mailtrap.io) to activate it.
 You can now sign-in, you have to fill some field yet and then you can match, talk, date and do even more ...
 
-### Some views
-
 ![matcha](./assets/matcha.png "main_page")
 ![matcha-mobile](./assets/matcha-mobile.png "main_page_mobile")
 
@@ -93,6 +91,7 @@ You can now sign-in, you have to fill some field yet and then you can match, tal
 ### Resource
 [Faker](https://unsplash.com/developers)
 [Geocoding](https://developers.google.com/maps/solutions/store-locator/clothing-store-locator#finding-locations-with-mysql)
+[Postman](https://www.getpostman.com/)
 
 ### Author
 
