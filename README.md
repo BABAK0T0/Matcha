@@ -29,9 +29,9 @@ REACT_APP_CLIENT_ID=
 REACT_APP_CLIENT_SECRET=
 ```
 
-5. Where can I find out those API keys
-[SMTP](https://mailtrap.io)
-[OPENCAGE](https://opencagedata.com/)
+5. Where can I find out my API keys
+[SMTP](https://mailtrap.io),
+[OPENCAGE](https://opencagedata.com/),
 [42_CLIENT](https://api.intra.42.fr) Only available for 42 Student (OPTIONAL)
 
 6. Then run this command into `matcha` and `matcha/front-end` to install packages and dependencies from package.json
@@ -62,8 +62,8 @@ node seedgen.js GIVE_A_NUMBER_BETWEEN_500_AND_1000
 
 ### Running
 
-Create an account, and check your email on [mailtrap](https://mailtrap.io) to activate it
-You can now sign-in, you have to fill some field yet and then you will match, talk, date and do even more ...
+Create an account, and check your email on [mailtrap](https://mailtrap.io) to activate it.
+You can now sign-in, you have to fill some field yet and then you can match, talk, date and do even more ...
 
 ### Some views
 
@@ -88,7 +88,11 @@ You can now sign-in, you have to fill some field yet and then you will match, ta
 	Forbidden tools:
 		* ORM/ODM
 		* MVC framework
-		* Registration / Authentication library 
+		* Registration / Authentication library
+
+### Resource
+[Faker](https://unsplash.com/developers)
+[Geocoding](https://developers.google.com/maps/solutions/store-locator/clothing-store-locator#finding-locations-with-mysql)
 
 Written by [bsiguret](https://github.com/bsiguret) and myself.
 
