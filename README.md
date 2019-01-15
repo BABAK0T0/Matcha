@@ -23,9 +23,11 @@ CLIENT_SECRET=
 
 4. Create a `.env` file in `matcha/front-end/` with those properties
 
+```
 API_KEY_OPENCAGE=
 REACT_APP_CLIENT_ID=
 REACT_APP_CLIENT_SECRET=
+```
 
 5. Where can I find out those API keys
 [SMTP](https://mailtrap.io)
@@ -66,7 +68,7 @@ You can now sign-in, you have to fill some field yet and then you will match, ta
 ### Some views
 
 ![matcha](./assets/matcha.png "main_page")
-![matcha-mobile](./assets/matcha.png "main_page_mobile")
+![matcha-mobile](./assets/matcha-mobile.png "main_page_mobile")
 
 ### Our stack
 
